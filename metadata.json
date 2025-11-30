@@ -1,0 +1,7 @@
+{
+  "name": "Classroom Voice Translator",
+  "description": "Real-time AI voice translation for inclusive classrooms.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
